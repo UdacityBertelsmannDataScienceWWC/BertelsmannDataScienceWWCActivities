@@ -6,12 +6,19 @@
 Write a Medium article about any topic related to Data Science & coursework subjects with **Bertelsmann Udacity Challenge Scholarship** program. Read through the following points carefully. It is very important to keep the quality of your article top-notch. DM @Swetha @PN10 @Reshu Singh in the case of any queries.
 
 -Take your own time and try to deliver the best you can.
+
 -Avoid spelling and grammar mistakes as much as possible. Utilize services like Grammerly (https://app.grammarly.com/) and Ginger (http://www.gingersoftware.com/).
+
 -Before starts writing, read: A style guide for writing on Medium - https://medium.freecodecamp.org/a-style-guide-for-writing-on-medium-fcbad27492ea
+
 -Try to pick a unique yet interesting name for the article. Make sure your article stands out in the crowd.
+
 -Article should contain more than 300 words. But remember not to compromise on quality.
+
 -After publishing, share it's link in  with a brief description.
+
 -There will be deadlines for this activity.
+
 -Finally, help others to improve their articles by providing your valuable feedback.
 ___
 
@@ -43,9 +50,9 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 
 8. The deadline for completing the tasks is exactly a week from the day the task list was posted unless otherwise stated.
 
-9. We now have a separate *Youtube Brand Channel* and Medium Publication named *“Udacity Bertelsmann Scholars”*.
+9. We now have a separate *Youtube Brand Channel* and *Medium Publication* named *“UB Women Data Scholars”*.
 
-10. All communication regarding to the above channels should be made on the Mail ID- “emailadress@gmail.com”.
+10. All communication regarding to the above channels should be made on the Mail ID- “slwomenwhocode@gmail.com”.
 
 11. For uploading video tutorials on the Youtube Brand Channel, you can forward your request on the above Mail ID from your own Mail ID, mentioning your slack handle for identification. I will then grant you access to the channel as the Brand Manager. This will allow you to upload videos on the channel.
 
