@@ -73,3 +73,5 @@ Example of a correct link- https://medium.com/beginners-guide-to-data-science-wo
 3. The permissions would be revoked for the concerned people after the deadline. They need to seek permission again in the upcoming task list, if any, to upload content again.
 
 4. Don’t forget to mention your signature(Full Name and Slack Handle) in the video description for Youtube Video or at the end of the Medium Story for proper identification and evaluation.
+
+Our Medium publishing page is here: https://medium.com/ub-women-data-scholars
