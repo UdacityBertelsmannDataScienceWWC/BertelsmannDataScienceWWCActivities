@@ -59,3 +59,37 @@ Cheers to all the amazing women Techies!! :female-teacher::female-artist:
 Happy Learning !!!
 `P.S. Note` :spiral_note_pad: `that Your contribution here will be shared with Udacity team so grab up the brownie points in your kitty.`:purse::100:
 
+### third annoucement
+*~~GOOD NEWS~~*
+
+Our publication has released our first article today thanks to wonderful & epigrammatic @naveena  here is the link of it 
+https://medium.com/ub-women-data-scholars/m-and-m-and-ms-2a12a2998fbe
+Do read, acknowledge & comment on Naveena's work as well as for all others writer's /youtuber's  too !!!
+Buck up every one we are close to the deadline 
+`Monday, July 16, 2018 @1:30 p.m UTC +0`
+
+*Few Reminder's for Medium / Youtube Activity* :kissing_heart:
+
+•  Share your medium draft/youtube tutorial draft to any concerned student leaders( @PN10 , @Jyoti_kritika, @jéssica.happatsch ) via DM before publishing, in order to double check its quality.                                                                                                                  
+• Forward your request on the below mentioned Mail ID from your own Mail ID, mentioning your slack handle for identification. We will then grant you access to the channel as the Brand Manager. This will allow you to upload videos on the channel.
+
+• Any of concerned SL will share the review on your draft by DM-ing you.
+
+• Please wait for us to send you the review since we need some time for it.
+
+• Once done with review process mail us 'slwomenwhocode@gmail.com'  on the mentioned email id with your medium username & other details like slack username, full name.
+
+• Please don't clutter the channel with your submissions posts, we will release announcement to acknowledge all submission once it is published.
+
+
+
+_Cheers_  :tada: :confetti_ball: :fireworks: :sparkles: _&_  :thanks: _all for making our initiative successful by  participating in it...!_!:cheer1-onion-head: :fidget_spinner:
+
+_For those who haven't participated yet don't feel discouraged we have planned to continue activity till the end of challenge..!_!:thumbs_up_parrot: :fidget_spinner: :bunny-stars:                                                                                                                        *Keeping rocking!!* *#blog #vblog* (edited)
+Medium
+M and M and M’s – UB Women Data Scholars – Medium
+I prefer to call them M and M and M’s. I just can’t have enough of them. Yes, That’s right ! The “Mean” “ Median” and “Mode”. They always…
+Reading time
+6 min read
+Yesterday at 9:28 PM
+https://cdn-images-1.medium.com/max/1200/1*zy9rJdJSOufugbX9t2Q4-w.jpeg
